@@ -1,0 +1,104 @@
+Comparative Analysis
+
+ Attributes      ara (Success Case) Hershey's (Failure Case)
+
+ **Implementation Approach** Phased implementation | Big bang implementation 
+ **Customization** High – tailored to business needs Standardized system, not optimized 
+**User Training** Extensive training before rollout Minimal training, user confusion 
+|l**Timeline Management** Realistic and gradual Rushed and unrealistic 
+**Impact on Business** Improved efficiency and decision-making |Revenue loss and operational failure 
+
+---
+
+**Key Takeaways & Lessons Learned**
+1.  What did the successful case do right?
+   - Zara customized its ERP system, rolled it out in phases, and offered extensive training.
+   This is what Zara did differently from Hershey's.
+2.  What went wrong in the failed case?
+   - Hershey's rushed the rollout, didn't train employees, and launched into peak season.
+
+3. **How can future implementations avoid similar failures?**  
+   - Implement in phases, ensure the workforce is ready, and not during peak business times.  
+
+---
+
+## **Insights & Recommendations**  
+
+### **1. Best Practices for Successful Enterprise System Implementation**  
+- Proper planning and risk assessment.  
+- Proper training and change management.
+- Implement the system in phases to minimize disruptions.  
+- Secure executive sponsorship and stakeholder buy-in.  
+
+### **2. Strategies to Avoid Failure**  
+- Set realistic timelines and avoid rushed rollouts.  
+- Test the system extensively before full deployment.  
+- Avoid peak business seasons for implementation.  
+- Customize the system to fit business operations.  
+
+### **3. Future Research Opportunities**
+- Effects of AI-driven enterprise systems on business success.  BEST METHODOLOGY OF ERP IMPLEMENTATION ACROSS INDUSTRIES    Cloud-based vs. On-Premise Enterprise System comparative analysis 
+
+By using this piece of research, the identification of success and failure issues in enterprise system implementation can be done critically. Thus, the enterprises have to implement best practices and learn from the failures in the past.### 2. Procedure for Implementation - In-house ERP development that is tailored to their process Zara's phased implementation will minimize operational disruption. The business and IT sides have an interface that prevented a startling implementation. ### 3. Elements of Success **Personalization:** Designed specifically to meet the needs of the company. Implementing it gradually reduces risk because all processes are carried out slowly. - **Strong Executive Leadership Support:** Made sure that resources were provided correctly and adequately. Ample training was provided to employees so they could react favorably to the system.### **4. Outcomes & Impact**
+Increased efficiency of the supply chain and inventory system
+Real time availability of information in decision making.
+Faster turnaround of inventory items for the re-stocking products and prevented more stock outs from happening hence raising customer's satisfactions## **Case Study 2: Failed Enterprise System Implementation**
+
+### **1. Company Overview**
+**Company:** Hershey's  **Rationale for Deployment:** Hershey's wanted its ERP, CRM, and SCM all to fall into place under a single package, thereby better enabling it for further growth.
+
+### **2. Implementation Process & Challenges**  - Deployed "big bang" that put in three systems at a go. 
+- The actual process was too much rushed as planned, leaving major operations completely unmanaged for extended periods of time.
+- Employees were not prepared before the system went live.
+
+### **3. Critical Failure Factors**
+- **Aggressive Timeline:** The implementation was rushed, which resulted in errors.
+- **Lack of User Training:** Employees were not familiar with the system.
+- **Big Bang Implementation:** Too many changes were implemented at one time, creating chaos.
+- **Seasonal Rollout Issues:** The system went live during peak demand, which exacerbated supply chain disruptions.### **4. Results & Impact**  
+- A significant $100 million revenue was missed through unsuccessful processing of orders
+- Stock went low and was shipped out past due. That meant a few operational inefficiencies
+- Deteriorating customer relationships & lost market shares
+
+---## **Comparative Analysis** 
+
+| **Attributes**      | **Zara (Success Case)** | **Hershey's (Failure Case)** |
+|--------------------|----------------------|-------------------------|
+| **Implementation Approach** | Phased implementation | Big bang implementation |
+| **Customization** | High – tailored to business needs | Standardized system, not optimized |
+| **User Training** | Extensive training before rollout | Minimal training, user confusion |
+| **Timeline Management** | Realistic and gradual | Rushed and unrealistic |
+| **Impact on Business** | Improved efficiency and decision-making | Revenue loss and operational failure |
+
+---
+
+**Key Takeaways & Lessons Learned**
+1.  What did the successful case do right?
+   - Zara customized its ERP system, rolled it out in phases, and offered extensive training.
+   This is what Zara did differently from Hershey's.
+2.  What went wrong in the failed case?
+   - Hershey's rushed the rollout, didn't train employees, and launched into peak season.
+
+3. **How can future implementations avoid similar failures?**  
+   - Implement in phases, ensure the workforce is ready, and not during peak business times.  
+
+---
+
+## **Insights & Recommendations**  
+
+### **1. Best Practices for Successful Enterprise System Implementation**  
+- Proper planning and risk assessment.  
+- Proper training and change management.
+- Implement the system in phases to minimize disruptions.  
+- Secure executive sponsorship and stakeholder buy-in.  
+
+### **2. Strategies to Avoid Failure**  
+- Set realistic timelines and avoid rushed rollouts.  
+- Test the system extensively before full deployment.  
+- Avoid peak business seasons for implementation.  
+- Customize the system to fit business operations.  
+
+### **3. Future Research Opportunities**
+- Effects of AI-driven enterprise systems on business success.  BEST METHODOLOGY OF ERP IMPLEMENTATION ACROSS INDUSTRIES    Cloud-based vs. On-Premise Enterprise System comparative analysis 
+
+By using this piece of research, the identification of success and failure issues in enterprise system implementation can be done critically. Thus, the enterprises have to implement best practices and learn from the failures in the past.

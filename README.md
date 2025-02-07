@@ -1,1 +1,0 @@
-# IT38A_RESEARCH
