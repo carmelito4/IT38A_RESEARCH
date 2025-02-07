@@ -2,22 +2,22 @@ Comparative Analysis
 
  Attributes  Zara (Success Case) Hershey's (Failure Case)
 
- **Implementation Approach** Phased implementation | Big bang implementation 
- **Customization** High – tailored to business needs Standardized system, not optimized 
-**User Training** Extensive training before rollout Minimal training, user confusion 
-|l**Timeline Management** Realistic and gradual Rushed and unrealistic 
-**Impact on Business** Improved efficiency and decision-making |Revenue loss and operational failure 
+ Implementation Approach Phased implementation | Big bang implementation 
+ Customization High – tailored to business needs Standardized system, not optimized 
+User Training Extensive training before rollout Minimal training, user confusion 
+Timeline Management Realistic and gradual Rushed and unrealistic 
+Impact on Business Improved efficiency and decision-making |Revenue loss and operational failure 
 
 
 
-**Key Takeaways & Lessons Learned**
+Key Takeaways & Lessons Learned
 1.  What did the successful case do right?
    - Zara customized its ERP system, rolled it out in phases, and offered extensive training.
    This is what Zara did differently from Hershey's.
 2.  What went wrong in the failed case?
    - Hershey's rushed the rollout, didn't train employees, and launched into peak season.
 
-3. **How can future implementations avoid similar failures?**  
+3. How can future implementations avoid similar failures?
    - Implement in phases, ensure the workforce is ready, and not during peak business times.  
 
 ---
