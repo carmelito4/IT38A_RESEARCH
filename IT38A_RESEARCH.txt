@@ -1,6 +1,6 @@
 Comparative Analysis
 
- Attributes      ara (Success Case) Hershey's (Failure Case)
+ Attributes      Zara (Success Case) Hershey's (Failure Case)
 
  **Implementation Approach** Phased implementation | Big bang implementation 
  **Customization** High – tailored to business needs Standardized system, not optimized 
