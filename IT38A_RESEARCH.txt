@@ -63,7 +63,7 @@ Faster turnaround of inventory items for the re-stocking products and prevented 
 ---## **Comparative Analysis** 
 
 | **Attributes**      | **Zara (Success Case)** | **Hershey's (Failure Case)** |
-|--------------------|----------------------|-------------------------|
+ 
 | **Implementation Approach** | Phased implementation | Big bang implementation |
 | **Customization** | High – tailored to business needs | Standardized system, not optimized |
 | **User Training** | Extensive training before rollout | Minimal training, user confusion |
